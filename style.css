@@ -65,7 +65,7 @@ nav .navbar .a{
     border-radius: 25px;
 }
 body{
-    background: url(../bg_bggenerator_com.png);
+    background: url("../bg_bggenerator_com.png");
     background-size: 100%;
 }
 .home{
