@@ -65,12 +65,12 @@ nav .navbar .a{
     border-radius: 25px;
 }
 body{
-    background: url(../bg_bggenerator_com.png);
+    background: url(./bg_bggenerator_com.png);
     background-size: 100%;
 }
 .home{
     display: flex;
-    background: url("../bgcycle1.jpg") no-repeat center;
+    background: url("./bgcycle1.jpg") no-repeat center;
     height: 100%;
     color: #fff;
     min-height: 650px;
